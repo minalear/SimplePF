@@ -1,0 +1,28 @@
+{
+  "name": "simplepf",
+  "title": "Simple Pathfinder",
+  "description": "The Simple Pathfinder system for FoundryVTT!",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "author": "Trevor Fisher",
+  "esmodules": ["module/simplepf.mjs"],
+  "styles": ["css/simplepf.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt"
+}

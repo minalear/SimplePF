@@ -1,0 +1,22 @@
+{
+  "SIMPLEPF.AbilityStr": "Strength",
+  "SIMPLEPF.AbilityCon": "Constitution",
+  "SIMPLEPF.AbilityDex": "Dexterity",
+  "SIMPLEPF.AbilityInt": "Intelligence",
+  "SIMPLEPF.AbilityWis": "Wisdom",
+  "SIMPLEPF.AbilityCha": "Charisma",
+
+  "SIMPLEPF.AbilityStrAbbr": "str",
+  "SIMPLEPF.AbilityConAbbr": "con",
+  "SIMPLEPF.AbilityDexAbbr": "dex",
+  "SIMPLEPF.AbilityIntAbbr": "int",
+  "SIMPLEPF.AbilityWisAbbr": "wis",
+  "SIMPLEPF.AbilityChaAbbr": "cha",
+
+  "SIMPLEPF.EffectCreate": "Create Effect",
+  "SIMPLEPF.EffectToggle": "Toggle Effect",
+  "SIMPLEPF.EffectEdit": "Edit Effect",
+  "SIMPLEPF.EffectDelete": "Delete Effect",
+
+  "SIMPLEPF.Add": "Add"
+}
