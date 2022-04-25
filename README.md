@@ -1,0 +1,2 @@
+# Simple Pathfinder System
+This is a simple system created for Foundry Virtual Tabletop with the emphasis on simplicity.  Existing systems for Pathfinder are excellent, but attempt to automate too many options in my personal opinion.  This system aims to provide a simple character sheet that allows for greater flexibility at the cost of complexity.

@@ -21,8 +21,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
+  "url": "https://github.com/minalear/SimplePF",
+  "manifest": "https://raw.githubusercontent.com/minalear/SimplePF/main/system.json",
   "download": "",
   "license": "LICENSE.txt"
 }
